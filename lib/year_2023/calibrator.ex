@@ -1,5 +1,4 @@
 defmodule Calibrator do
-
   @number_map %{
     "zero" => "0",
     "one" => "1",
